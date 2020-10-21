@@ -1,0 +1,55 @@
+﻿MICHAEL GOYER  
+Michaelperry929@gmail.com
+LinkedIn
+Twitter
+
+
+Amateur hacker seeking out professional experience. Skilled at problem solving and motivating in a team-oriented environment.
+EXPERIENCE
+
+
+Threat Intelligence Intern, White Ops Threat Intelligence. 5/0/2020 – Present
+Learned Open Source Threat Intelligence research tools including but not limited to: Virustotal, DomainIQ, and PassiveTotal. Contributed research into domains, companies, and other threat actors related to larger ongoing investigations. Learned and performed Static and Dynamic analysis of android APKs using open source decompiling and web proxying software, and writing detailed documentation of findings. Wrote and assisted in deploying python scripts to automate data collection for processing metrics, and systematically scrape images from forums of interest. Developed a browser extension in Javascript, to ease the research process for Threat Intel. 
+
+
+Resident Assistant, UMW Residence Life and Housing, 8/13/2019 – 5/10/2020 
+Responsible for the safety, wellbeing, and engagement of nearly 50 freshman residents. Regularly conducted community  programming and conflict resolution to smooth the transition from high school to college,  enforcing university policy as needed. Provided regular thorough documentation of incidents and corresponding action taken.   
+ 
+SHIFT LEADER, RITA’S OF VIENNA 5/21/2018 – 12/15/18
+Responsible for running the store when a manager was not present, as well as some event  planning, training new employees, providing guidance for junior employees, and assisting  customers with problems. Coordinated catering services and managed corresponding data.  
+
+
+INTERN, BRAWS (BRINGING RESOURCES & AID TO WOMEN’S SHELTERS) 5/22/2017 – 7/30/17 
+Responsible for making phone calls to collect donations and grants from various businesses in  the Northern Virginia Area, managed an excel database detailing information about donating businesses, their contributions, contact information, and additional information on companies.  
+ 
+WAITER/CASHIER, FOSTER’S GRILLE OCT 2014 – JULY 2016
+Responsible for taking orders and running the cash register as well as preparing and delivering  food. Additionally responsible for opening and closing the restaurant.  
+EDUCATION  
+SENIOR, UNIVERSITY OF MARY WASHINGTON 
+Computer Science major, Cybersecurity minor; GPA; 2.97, undergraduate degree anticipated May  2021. See LinkedIn for a full list of courses.  
+
+
+President, University of Mary Washington Linux Users Group (7/1/2020 - Present)
+In charge of maintaining Github page and online presence, as well as planning, organizing, and executing engaging events for Computer scientists, hackers, and Linux enthusaists at UMW. Organizing CTF competition presently.
+GRADUATE, JAMES MADISON HIGH SCHOOL 
+Graduated June 2017 
+
+
+TECHNICAL SKILLS  
+* Python, Java, Javascript, and C programming, debugging, and API documentation.
+* Web server front and back end development using postgresql, REST API, Postman, and nginx
+* Familiarity with analysis/decompiling tools such as ghidra, jadx, gdb, and wireshark, among others.
+* Basic system administration tools (AWS/Google Cloud, LAMP stack, Docker, Cron and ansible)
+* Basic penetration testing techniques (Metasploit, nmap, iptables, snort)
+* Remote communication & teamwork
+* Time Management & project prioritization
+SOFT SKILLS  
+* Leadership  
+* Communication  
+* Conflict resolution/problem solving 
+
+
+* Technical writing, communication. 
+* Teamwork  
+* Adaptability 
+2
